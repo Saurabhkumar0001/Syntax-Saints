@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #9e9c9c;
+    color: rgb(208, 102, 102);
     padding: 10px 20px;
     text-align: center;
 }
@@ -23,13 +23,13 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color: rgb(208, 54, 84);
     text-decoration: none;
     font-size: 16px;
 }
 
 footer {
-    background-color: #333;
+    background-color:#9e9c9c;
     color: white;
     text-align: center;
     padding: 10px;
@@ -42,12 +42,12 @@ footer {
 main {
     margin: 20px;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(216, 211, 211);
     border-radius: 8px;
 }
 
 h1, h2 {
-    color: #333;
+    color: #f7ebeb;
 }
 
 /* Form styling */
@@ -68,15 +68,15 @@ input[type="file"] {
 
 button {
     padding: 10px;
-    background-color: #333;
-    color: white;
+    background-color: #716e6e;
+    color: rgb(227, 56, 130);
     border: none;
     border-radius: 4px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #555;
+    background-color: #938e8e;
 }
 
 /* Intern List */
@@ -86,7 +86,7 @@ button:hover {
 }
 
 #internsList li {
-    background-color: #eaeaea;
+    background-color: #eef2f4;
     margin: 5px 0;
     padding: 10px;
     border-radius: 4px;
